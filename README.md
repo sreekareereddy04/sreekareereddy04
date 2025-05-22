@@ -7,8 +7,6 @@ I'm a Final year B.Tech Computer Science Engineering student at VIT-AP Universit
 ### 🌟 About Me  
 I’m passionate about crafting **scalable software**, **intuitive web applications**, and pioneering **AI/ML innovations** with a focus on generative AI. I thrive at the intersection of business systems and cutting-edge technology.
 
----
-
 ### 🛠️ Technical Toolkit  
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -35,18 +33,14 @@ I’m passionate about crafting **scalable software**, **intuitive web applicati
 ---
 
 ### 🔥 Current Projects  
-- ** ✨ Dynamic Portfolio Website** – Built with React + Tailwind CSS to showcase my journey.
-- ** 👗 E-Fashion Store** – Full-stack e-commerce platform with cart/auth (MERN stack).
-- ** 🤖 ML-Based Projects** – Exploring predictive models with Python (Pandas/Scikit-learn).
-
----
+- **✨ Dynamic Portfolio Website** – Built with React + Tailwind CSS to showcase my journey.
+- **👗 E-Fashion Store** – Full-stack e-commerce platform with cart/auth (MERN stack).
+- **🤖 ML-Based Projects** – Exploring predictive models with Python (Pandas/Scikit-learn).
 
 ### 📚 Learning & Growth  
 - **Frontend Mastery**: React.js, Next.js, and responsive design.
 - **Backend Basics**: Node.js, Express, and REST APIs.
 - **AI/ML**: Deep diving into LLMs, Chatbots and Gen AI Solutions. 
-
----
 
 ### 🏆 Achievements  
 - 🪐 **Galactic Problem Solver** – NASA Space Apps Challenge Winner  
@@ -60,3 +54,6 @@ I'm actively seeking **AI and Full Stack Development internships** and **open-so
 📬 **Email:** [sreekaree.adla@gmail.com](mailto:sreekaree.adla@gmail.com)  
 🔗 **LinkedIn:** [Sreekaree Adla](https://www.linkedin.com/in/sreekaree-adla-629743279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 💻 **GitHub:** [@sreekareereddy04](https://github.com/sreekareereddy04)  
+
+### ⚡ Fun Fact: 
+**I believe "Code is poetry, and debugging is its rhythm." ✨**
